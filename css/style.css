@@ -7,3 +7,63 @@
 body {
   font-family: "Lato", sans-serif;
 }
+.btn_primary {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px 40px;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  border: none;
+}
+.header_container {
+  /* background-color: #E554731A; */
+  background: rgba(229, 84, 115, 0.1);
+}
+.nav_container {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav_menu-item ul {
+  display: flex;
+  gap: 20px;
+}
+.nav_menu-item ul li {
+  list-style: none;
+}
+.nav_menu-item li a {
+  font-size: 25px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #000;
+}
+/* nav section end */
+/* banner section start */
+.banner_container {
+  height: 100vh;
+}
+.banner_section {
+  display: flex;
+  align-items: center;
+  padding: 0px 200px;
+}
+.img_section img {
+  min-height: 100px;
+  padding-left: 90px;
+}
+.banner_title {
+  color: #272727;
+  font-size: 70px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.banner_description {
+  margin-bottom: 30px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+}
+
+/* banner section end */
