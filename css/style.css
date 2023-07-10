@@ -50,8 +50,9 @@ body {
   padding: 0px 200px;
 }
 .img_section img {
-  min-height: 100px;
   padding-left: 90px;
+  width: 600px;
+  height: 755px;
 }
 .banner_title {
   color: #272727;
@@ -67,3 +68,24 @@ body {
 }
 
 /* banner section end */
+/* feature section start */
+.Featured-container {
+  background: #fff;
+  padding-top: 150px;
+}
+.sction_title {
+  text-align: center;
+  padding: 0 500px;
+}
+.sction_title h2 {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.sction_title p {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+}
+/* feature section End */
