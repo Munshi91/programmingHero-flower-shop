@@ -34,6 +34,9 @@ body {
 .nav_menu-item ul li {
   list-style: none;
 }
+.nav_menu-item li a:hover {
+  color: #e55473;
+}
 .nav_menu-item li a {
   font-size: 25px;
   font-weight: 700;
