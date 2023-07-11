@@ -74,8 +74,8 @@ body {
 /* feature section start */
 .featured-container {
   background: #fff;
-  margin-top: 80px;
-  margin-bottom: 100px;
+  margin-top: 40px;
+  margin-bottom: 80px;
 }
 .sction_title {
   text-align: center;
@@ -196,7 +196,7 @@ body {
 /* Hot deal section css End */
 /* instagram section start */
 .insta_info-section {
-  padding: 100px 0;
+  padding: 80px 0;
   text-align: center;
 }
 .insta-title {
@@ -232,7 +232,7 @@ body {
   background-position: center;
   align-items: center;
   height: 400px;
-  margin: 50px 135px;
+  margin: 80px 135px;
   border-radius: 8px;
 }
 .news-title {
@@ -279,8 +279,15 @@ footer {
   padding: 60px 200px;
 }
 footer p {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.9);
   padding: 20px 200px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.buttom-p {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
 }
 
 /* Group section css start */
