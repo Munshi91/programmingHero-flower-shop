@@ -81,17 +81,17 @@ body {
   margin-top: 40px;
   margin-bottom: 80px;
 }
-.sction_title {
+.section_title {
   text-align: center;
   padding: 50px 400px;
 }
-.sction_title h2 {
+.section_title h2 {
   color: #272727;
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 20px;
 }
-.sction_title p {
+.section_title p {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
   font-weight: 400;
@@ -99,7 +99,7 @@ body {
 }
 
 .card-left {
-  width: 470px;
+  width: 500px;
   height: 500px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
@@ -113,13 +113,13 @@ body {
   text-decoration-line: underline;
 }
 .card-left img {
-  width: 300px;
+  width: 330px;
   height: 420px;
   margin-top: 80px;
-  padding: 0 60px;
+  padding: 0 70px;
 }
 .card-center {
-  width: 464px;
+  width: 400px;
   height: 500px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
@@ -133,22 +133,22 @@ body {
   text-decoration-line: underline;
 }
 .card-center img {
-  width: 350px;
+  width: 320px;
   height: 370px;
   margin-top: 115px;
-  padding: 0 30px;
+  padding: 0 40px;
 }
 .card-right {
-  width: 470px;
+  width: 500px;
   height: 500px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(71, 125, 17, 0.15);
 }
 .card-right img {
-  width: 314px;
+  width: 330px;
   height: 471px;
   margin-top: 28px;
-  padding: 0 60px;
+  padding: 0 70px;
 }
 .card-right h3 {
   color: #272727;
