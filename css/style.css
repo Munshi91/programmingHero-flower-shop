@@ -96,6 +96,14 @@ body {
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
 }
+.card-left h3 {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
 .card-left img {
   width: 310px;
   height: 428px;
@@ -107,6 +115,14 @@ body {
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
+}
+.card-center h3 {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  margin-top: 40px;
+  font-weight: 700;
+  text-decoration-line: underline;
 }
 .card-center img {
   width: 370px;
@@ -126,10 +142,51 @@ body {
   margin-top: 65px;
   padding-left: 40px;
 }
+.card-right h3 {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
 .all-box {
   display: flex;
   align-items: center;
   padding: 0px 200px;
   gap: 20px;
 }
+
 /* feature section End */
+/* Hot deal section css add */
+.hotdeal_section {
+  padding: 80px 0;
+  background: rgba(229, 84, 115, 0.1);
+}
+.section-row {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 30px 300px;
+  gap: 50px;
+}
+.info-section {
+  align-items: center;
+}
+.hot-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.hot-title span {
+  color: #e55473;
+}
+.hot-desc {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+/* Hot deal section css End */
