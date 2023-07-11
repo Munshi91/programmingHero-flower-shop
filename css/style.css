@@ -270,3 +270,15 @@ body {
   margin-left: 20px;
 }
 /* newsletters section End */
+
+/* footer section start */
+footer {
+  background: #000;
+  justify-content: center;
+  text-align: center;
+  padding: 60px 200px;
+}
+footer p {
+  color: #fff;
+  padding: 20px 200px;
+}
